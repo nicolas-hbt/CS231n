@@ -14,11 +14,11 @@ Link : http://cs231n.stanford.edu/syllabus.html
 - [Q2](https://github.com/nicolas-hbt/CS231n/blob/master/assignment2/BatchNormalization.ipynb): Batch Normalization. (_Done_)
 - [Q3](https://github.com/nicolas-hbt/CS231n/blob/master/assignment2/Dropout.ipynb): Dropout. (_Done_)
 - [Q4](https://github.com/nicolas-hbt/CS231n/blob/master/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
-- [Q5](https://github.com/nicolas-hbt/CS231n/blob/master/assignment2/PyTorch.ipynb): PyTorch / T̶e̶n̶s̶o̶r̶f̶l̶o̶w̶ on CIFAR-10. (_Done_)
+- [Q5](https://github.com/nicolas-hbt/CS231n/blob/master/assignment2/PyTorch.ipynb): **PyTorch** on CIFAR-10. (_Done_)
 
 ### Assignment 3:
-- [Q1](): Image Captioning with Vanilla RNNs. (_Done_)
-- [Q2](): Image Captioning with LSTMs. (_Done_)
-- [Q3](): Network Visualization: Saliency maps, Class Visualization, and Fooling Images. (_TO DO_)
-- [Q4](): Style Transfer. (_Done_)
-- [Q5](): Generative Adversarial Networks. (_Done_)
+- [Q1](https://github.com/nicolas-hbt/CS231n/blob/master/assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. (_Done_)
+- [Q2](https://github.com/nicolas-hbt/CS231n/blob/master/assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs. (_Done_)
+- [Q3](https://github.com/nicolas-hbt/CS231n/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb): Network Visualization with **PyTorch**. (_TO DO_)
+- [Q4](https://github.com/nicolas-hbt/CS231n/blob/master/assignment3/StyleTransfer-PyTorch.ipynb): Style Transfer with **PyTorch**. (_Done_)
+- [Q5](https://github.com/nicolas-hbt/CS231n/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb): Generative Adversarial Networks with **PyTorch**. (_Done_)
